@@ -14,7 +14,7 @@
 <p/>
 
 <p align="center">
-  <a href="https://raganork.site">
-    <img src="https://i.ibb.co/fVWcycPc/get-join-bot-fam" alt="Join Bot Fam" width="200"/>
+  <a href="https://chat.whatsapp.com/Lc4EKJWWspeHRhejHget-join-bot-fam
+    <img src="https://i.ibb.co/fVWcycPc/get-joinbotfam" get-join-bot-fam-join-bot-fam="Join Bot Fam" width="200"/>
   </a>
 </p>
